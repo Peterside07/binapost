@@ -31,7 +31,7 @@ BinaPost includes all the setup required to build, test, and run the application
 **Step 1:**
 Clone this repository:
 ```
-https://gitlab.com/a2928/bina-post-app/
+https://github.com/Peterside07/binapost/
 ```
 
 **Step 2:**
